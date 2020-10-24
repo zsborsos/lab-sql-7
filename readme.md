@@ -17,4 +17,3 @@ The database is structured as follows:
 6. Mean length by rating.
 7. Which kind of movies (rating) have a mean duration of more than two hours?
 8. List movies and add information of average duration for their rating and original language.
-9. Which rentals are longer than expected?
